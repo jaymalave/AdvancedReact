@@ -1,4 +1,3 @@
-import { PromiseProvider } from 'mongoose';
 import React, {useState, createContext} from 'react'
 
 export const MovieContext = createContext();
